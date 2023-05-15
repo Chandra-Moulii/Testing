@@ -6,10 +6,6 @@
   box-sizing: border-box;
 }
 
-:root {
-  --accent:;
-  --accent-hover:;
-}
 /* Resets for buttons, inputs */
 
 button {
