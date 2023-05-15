@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  font-family: system-ui;
+  box-sizing: border-box;
+}
+
+/* Resets for buttons, inputs */
+
+button {
+  border: none;
+  display: block;
+  cursor: pointer;
+  font-size: unset;
+  padding: 0.5rem;
+}
+
+.app {
+  margin: 1rem 0;
+  text-align: center;
+}
